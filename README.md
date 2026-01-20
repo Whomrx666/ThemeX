@@ -25,13 +25,12 @@ $ bash ThemeX.sh
 - **Last**: Wait a few seconds and boom your terminal will adjust to the theme you chose.
 
 # Themes menu
-| Banner list | ✔️ |
+| Banner list | 📝 |
 |--------|--------|
 | **Alien** |✔️ |
 | **Bat** |✔️ |
 | **Biohazard** |✔️ |
-| **Dragon* |✔️ |
-| **Evil eye** |✔️ |
+| **Dragon** |✔️ |
 | **Gost Buster** |✔️ |
 | **Grim Reaper** |✔️ |
 | **Keyboard** |✔️ |
@@ -43,7 +42,6 @@ $ bash ThemeX.sh
 | **Snail** |✔️ |
 | **Weed** |✔️ |
 | **yin yang** |✔️ |
-| **Text Banner** |✔️ |
 ---------
 
 ## Observation
