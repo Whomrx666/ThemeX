@@ -35,7 +35,7 @@ $ bash ThemeX.sh
 | **Grim Reaper** |✔️ |
 | **Keyboard** |✔️ |
 | **Linux** |✔️ |
-| **Linon** |✔️ |
+| **Lion** |✔️ |
 | **Minotaur** |✔️ |
 | **Redhat** |✔️ |
 | **Skull** |✔️ |
